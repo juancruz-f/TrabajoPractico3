@@ -1,0 +1,34 @@
+[
+    {
+        "titulo": "planchar",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "barrer",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "hacer la cama",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "jugar con el perro",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "hacer los mandados",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "cocinar",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "mirar playground",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Podar las plantas",
+        "estado": "pendiente"
+    }
+]
